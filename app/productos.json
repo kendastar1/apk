@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "ZAVIANA FS",
+        "descripcion": "Tratamiento del insomnio caracterizado por la dificultad de conciliar y/o mantener el sue\u00c3\u00b1o.",
+        "precio": "154.000",
+        "cantidad": 10,
+        "imagen": "imagenes/zaviana.jpeg"
+    },
+    {
+        "nombre": "SERENIA",
+        "descripcion": "ayuda a relajar en situaciones de nerviosismo, y a combatir el insomnio ocasional de manera natural.",
+        "precio": "53.000",
+        "cantidad": 10,
+        "imagen": "imagenes/serenia.jpg"
+    },
+    {
+        "nombre": "IBUPROFENO",
+        "descripcion": "El ibuprofeno alivia el dolor y baja la fiebre.",
+        "precio": "3.500",
+        "cantidad": 60,
+        "imagen": "imagenes/ibuprofeno.jpg"
+    }
+]
